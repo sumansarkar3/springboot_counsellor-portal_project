@@ -1,1 +1,1 @@
-# springboot_mini_project
+# This is springboot counsellor portal project
